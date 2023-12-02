@@ -3,7 +3,7 @@ const uniformsLink = document.getElementById('uniforms-link');
 const linenLink = document.getElementById('linen-link');
 const merchendiesLink = document.getElementById('merchendies-link');
 
-const uniformsSection = document.getElementById('uniforms-section');
+const uniformsSection = document.getElementById('uniforms-sections');
 const linenSection = document.getElementById('linen-section');
 const merchendiesSection = document.getElementById('merchendies-section');
 
